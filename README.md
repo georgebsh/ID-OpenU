@@ -25,7 +25,7 @@ Your browser already saves your username and password, but not the ID number. Th
 - From then on, the ID field on the login page fills itself in.
 - Click the extension icon to view, change, or delete the saved ID.
 
----
+----
 
 <div dir="rtl">
 

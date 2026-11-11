@@ -4,7 +4,6 @@ A small Chrome / Edge extension that remembers your **ID number** on the Open Un
 
 Your browser already saves your username and password, but not the ID number. This extension handles the ID, so you don't have to type it every time.
 
-> Unofficial project. Not affiliated with or endorsed by the Open University of Israel.
 
 ## Privacy
 
@@ -36,7 +35,6 @@ Your browser already saves your username and password, but not the ID number. Th
 
 הדפדפן כבר שומר את שם המשתמש והסיסמה, אבל לא את מספר הזהות. התוסף הזה דואג למספר הזהות, כך שלא צריך להקליד אותו בכל פעם.
 
-> פרויקט לא רשמי. אינו קשור לאוניברסיטה הפתוחה ואינו מאושר על ידה.
 
 ## פרטיות
 
